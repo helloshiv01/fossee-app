@@ -19,6 +19,14 @@ https://user-images.githubusercontent.com/104753095/234863228-3bfc282e-62ba-45fd
 
 ![image](https://user-images.githubusercontent.com/104753095/236509985-fc6fb053-4655-472d-b26a-6ad98be6fb9a.png)
 
+## Navbar and Toast added✨
+
+![image](https://github.com/helloshiv01/fossee-app/assets/104753095/0c0afa82-1501-42ad-9d24-96bd34b45c9d)
+
+## Firebase Authentication
+![image](https://github.com/helloshiv01/fossee-app/assets/104753095/58e92484-7072-47ab-ba65-5109253fe77d)
+
+![image](https://github.com/helloshiv01/fossee-app/assets/104753095/36cbe191-e58c-48ca-935b-bbe5b5f5cfb2)
 
 ## Technologies Used✨
 The folowing technologies, libraries/packages were used for making this React application:
