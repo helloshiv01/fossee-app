@@ -64,7 +64,7 @@ perspectives.
 ## Steps and Approach To Solve The Task
 1.To Display CAD files on browser make react app using ```npx create-react-app my-project``` This will create a react app in directory.
 
-2.Install three.js packages using ```npm install three @react-three/fiber @react-three/drei``` These Packages will help to display 3d objects in browser.
+2.Install three.js packages using ```npm install three @react-three/fiber @react-three/drei``` These Packages will help to display 3d objects in browser. ```npm install react-bootstrap bootstrap``` ```npm i react-toastify```
 
 3.Converted the .stl/.stp/.igs/.brep file to a format that Three.js can read such as GLTF, using a CAD viewer or converter.
 
