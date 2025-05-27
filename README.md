@@ -4,16 +4,7 @@ This is a interactive React application that showcases the usage of the React Th
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![GitHub watchers](https://badgen.net/github/watchers/helloshiv01/my-project/)](https://GitHub.com/helloshiv01/my-project/watchers/)
-[![GitHub issues](https://img.shields.io/github/issues/helloshiv01/my-project)](https://GitHub.com/helloshiv01/my-project/issues/)
 
-## Motivation✨
-Built For Screening Phase of FOSSEE 2023
-
-![FOSEE](https://fossee.in/sites/all/themes/software_responsive_theme/img/logo.png)
-
-
-https://user-images.githubusercontent.com/104753095/234863228-3bfc282e-62ba-45fd-a14e-59c83fcc0713.mp4
 
 ## Colors added✨
 
